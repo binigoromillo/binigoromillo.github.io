@@ -4,11 +4,25 @@
 
 
 ## Publications
-** An Intrinsically Explainable Approach to Detecting Vertebral Compression Fractures in CT Scans via Neurosymbolic Modeling | SPIE Medical Imaging
-** Impact of cone-beam CT noise correlation on self-supervised denoising strategies for low dose breast CT imaging | SPIE Medical Imaging [Link] https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12463/2654447/Impact-of-cone-beam-CT-noise-correlation-on-self-supervised/10.1117/12.2654447.short
-** Fastsam-3dslicer: A 3d-slicer extension for 3d volumetric segment anything model with uncertainty quantification | MedAGI [Link] https://link.springer.com/chapter/10.1007/978-3-031-73471-7_1
-** Fastsam3d: An efficient segment anything model for 3d volumetric medical images | MICCAI 2024 [Link] https://link.springer.com/chapter/10.1007/978-3-031-72390-2_51
-** Intelligent Control of Robotic X-ray Devices using a Language-promptable Digital Twin | IPCAI 2025 [Link] https://arxiv.org/abs/2412.08020
+
+- **An Intrinsically Explainable Approach to Detecting Vertebral Compression Fractures in CT Scans via Neurosymbolic Modeling**  
+  *SPIE Medical Imaging*
+
+- **Impact of Cone-beam CT Noise Correlation on Self-supervised Denoising Strategies for Low Dose Breast CT Imaging**  
+  *SPIE Medical Imaging*  
+  [Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12463/2654447/Impact-of-cone-beam-CT-noise-correlation-on-self-supervised/10.1117/12.2654447.short)
+
+- **Fastsam-3dslicer: A 3D-Slicer Extension for 3D Volumetric Segment Anything Model with Uncertainty Quantification**  
+  *MedAGI*  
+  [Link](https://link.springer.com/chapter/10.1007/978-3-031-73471-7_1)
+
+- **Fastsam3d: An Efficient Segment Anything Model for 3D Volumetric Medical Images**  
+  *MICCAI 2024*  
+  [Link](https://link.springer.com/chapter/10.1007/978-3-031-72390-2_51)
+
+- **Intelligent Control of Robotic X-ray Devices Using a Language-promptable Digital Twin**  
+  *IPCAI 2025*  
+  [Link](https://arxiv.org/abs/2412.08020)
 
 ## Experience
 
