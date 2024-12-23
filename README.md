@@ -1,5 +1,3 @@
-# Blanca Inigo Romillo
-
 ## About me
 My work has focused on applying Deep Learning models for various medical applications, including diagnosis, surgical planning, and Mixed Reality guidance. My goal is to improve patient outcomes 
 ensuring AI systems remain interpretable for smooth clinical integration. At the ARCADE Lab, I am currently developing the intelligent components for a novel Multi-robot System for Semi-automated Image-guided Vertebral Augmentation. 
