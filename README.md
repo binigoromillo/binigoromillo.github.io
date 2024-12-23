@@ -5,9 +5,9 @@ My work has focused on applying Deep Learning models for various medical applica
 ensuring AI systems remain interpretable for smooth clinical integration. At the ARCADE Lab, I am currently developing the intelligent components for a novel Multi-robot System for Semi-automated Image-guided Vertebral Augmentation. 
 
 ## Links
-- [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=B58y2LcAAAAJ) ![GS_logo] (/imgs/Google_Scholar_logo.svg.png)
-- [**LinkedIn**](https://www.linkedin.com/in/blancainigo/) ![Linkedin_logo] (/imgs/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.webp)
-- [**GitHub**](https://github.com/binigoromillo) ![github_logo] (/imgs/Octicons-mark-github.svg.png)
+- [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=B58y2LcAAAAJ) [GS_logo] (/imgs/Google_Scholar_logo.svg.png)
+- [**LinkedIn**](https://www.linkedin.com/in/blancainigo/) [Linkedin_logo] (/imgs/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.webp)
+- [**GitHub**](https://github.com/binigoromillo) [github_logo] (/imgs/Octicons-mark-github.svg.png)
 - [**Resume**](https://drive.google.com/file/d/11dDGtCXj2NnVbVvKzV7E0J_D6ZABWkif/view?usp=sharing)
 
 ## Publications
