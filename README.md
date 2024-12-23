@@ -5,7 +5,7 @@ ensuring AI systems remain interpretable for smooth clinical integration. At the
 ## Links
 - <a href="https://scholar.google.com/citations?hl=en&user=B58y2LcAAAAJ"><img src="./imgs/Google_Scholar_logo.svg.png" alt="Google Scholar" height="20"/></a> [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=B58y2LcAAAAJ)
 - <a href="https://www.linkedin.com/in/blancainigo/"><img src="./imgs/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.webp" alt="LinkedIn" height="20"/></a> [**LinkedIn**](https://www.linkedin.com/in/blancainigo/)
-- <a href="https://github.com/binigoromillo"><img src="./imgs/pngtree-github-logo-icon-png-image_6214544.png" alt="GitHub" height="20"/></a> [**GitHub**](https://github.com/binigoromillo)
+- <a href="https://github.com/binigoromillo"><img src="./imgs/Octicons-mark-github.svg.png" alt="GitHub" height="20"/></a> [**GitHub**](https://github.com/binigoromillo)
 - [**Resume**](https://drive.google.com/file/d/11dDGtCXj2NnVbVvKzV7E0J_D6ZABWkif/view?usp=sharing)
 
 ## Publications
